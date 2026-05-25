@@ -8,9 +8,9 @@ Financial transaction systems generate large volumes of raw data that must be an
 • Operational insights
 
 Manually splitting and formatting these reports is: <br>
-• ⏱️ Time-consuming
-• ❌ Error-prone
-• 📉 Not scalable for high-volume datasets
+• ⏱️ Time-consuming<br>
+• ❌ Error-prone<br>
+• 📉 Not scalable for high-volume datasets<br>
 This project automates the entire reporting pipeline.
 
 # 🚀 Solution Overview
