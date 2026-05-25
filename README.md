@@ -61,7 +61,7 @@ Python-Automated-Transaction-Report-Generator/
 
 # 📷 Output Preview
 ## 📊 Merchant-wise Transaction Report (Full View)
-![Image_1](01_image.png)
+![Image_1](images/01_image.png)
 
 This is a sample generated Excel report for one of the merchants:
 
