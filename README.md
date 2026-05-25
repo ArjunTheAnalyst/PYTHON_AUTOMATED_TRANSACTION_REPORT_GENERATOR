@@ -102,7 +102,7 @@ filtered_data = source_dataframe[source_dataframe['MERCHANT'] == merchant_name]
 filtered_data.to_excel(output_file_path, index = False)
 ```
 
-• **Formatting Layer**
+• **Formatting Layer**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;◦ Borders applied using `openpyxl.styles.Border`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;◦ Alignment using `openpyxl.styles.Alignment`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;◦ Date formatting applied for datetime objects<br>
