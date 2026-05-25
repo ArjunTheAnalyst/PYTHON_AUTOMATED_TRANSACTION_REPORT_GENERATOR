@@ -1,10 +1,10 @@
 # 📊 Python Automated Transaction Report Generator
 
 ## 🧩 Business Problem
-Financial transaction systems generate large volumes of raw data that must be analyzed at a merchant level for:
-• Risk monitoring
-• Fraud detection
-• Compliance reporting
+Financial transaction systems generate large volumes of raw data that must be analyzed at a merchant level for:<br>
+• Risk monitoring<br>
+• Fraud detection<br>
+• Compliance reporting<br>
 • Operational insights
 
 Manually splitting and formatting these reports is: <br>
