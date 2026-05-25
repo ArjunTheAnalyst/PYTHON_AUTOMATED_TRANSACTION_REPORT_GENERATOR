@@ -17,11 +17,11 @@ This project automates the entire reporting pipeline.
 # 🚀 Solution Overview
 This project automates the transformation of raw transaction data into **structured, merchant-wise Excel reports** with professional formatting.
 
-It eliminates manual effort by:
-• Splitting data by merchant
-• Generating individual Excel reports
-• Applying financial-grade formatting
-• Producing analysis-ready outputs for stakeholders
+It eliminates manual effort by:<br>
+• Splitting data by merchant<br>
+• Generating individual Excel reports<br>
+• Applying financial-grade formatting<br>
+• Producing analysis-ready outputs for stakeholders<br>
 
 # ⚙️ Key Features
 • Automatic CSV ingestion using pandas
