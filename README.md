@@ -81,7 +81,7 @@ Zoomed-in view showing formatting applied using `openpyxl`:<br>
 ![Image_3](images/03_image.png)
 
 # 📊 Impact
-**Metric**              |  **Manual Process**  |  **Automated Process**<br>
+**Metric**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |  **Manual Process**  |  **Automated Process**<br>
 Report generation time  |      Hours	         |      Seconds
 Scalability             |	      Low	           |        High
 Error rate              |	      High	         |      Minimal
