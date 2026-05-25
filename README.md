@@ -123,4 +123,4 @@ This automation is useful for:<br>
 • File system automation and dynamic report generation<br>
 • Designing scalable data processing pipelines<br>
 
-View my notebook with detailed steps here: [Automated Transaction Report Generator](PYTHON_AUTOMATED_TRANSACTION_REPORT_GENERATOR.ipynb)
+View notebook with detailed steps here: [Automated Transaction Report Generator](PYTHON_AUTOMATED_TRANSACTION_REPORT_GENERATOR.ipynb)
