@@ -38,13 +38,13 @@ It eliminates manual effort by:<br>
 # 🏗️ System Architecture
 The pipeline follows a simple 4-stage process:<br>
 **1. Data Ingestion**<br>
-Load raw transaction CSV into pandas DataFrame<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Load raw transaction CSV into pandas DataFrame<br>
 **2. Data Segmentation**<br>
-Split dataset based on unique `MERCHANT` values<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Split dataset based on unique `MERCHANT` values<br>
 **3. Report Generation**<br>
-Export each merchant dataset into Excel format<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Export each merchant dataset into Excel format<br>
 **4. Formatting Layer**<br>
-Apply Excel styling using `openpyxl` for readability and presentation
+&nbsp;&nbsp;&nbsp;&nbsp;Apply Excel styling using `openpyxl` for readability and presentation
 
 # 📂 Project Structure
 ```
