@@ -28,7 +28,7 @@ It eliminates manual effort by:<br>
 • Merchant-wise segmentation of transactions<br>
 • Individual Excel report generation per merchant<br>
 • Professional formatting using openpyxl:<br>
-<nbsp><nbsp> <nbsp> <nbsp>  ◦ Bold header rows<br>
+<&nbsp><&nbsp><&nbsp><&nbsp>  ◦ Bold header rows<br>
     ◦ Center alignment<br>
     ◦ Cell borders<br>
     ◦ Date-time formatting<br>
