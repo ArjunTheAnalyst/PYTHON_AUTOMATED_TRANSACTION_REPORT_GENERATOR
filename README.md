@@ -81,11 +81,10 @@ Zoomed-in view showing formatting applied using `openpyxl`:<br>
 ![Image_3](images/03_image.png)
 
 # 📊 Impact
-**Metric**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  **Manual Process**  |  **Automated Process**<br>
-Report generation time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|      Hours	         |      Seconds
-Scalability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	      Low	           |        High
-Error rate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |	      High	         |      Minimal
-Consistency&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	   Inconsistent	     |    Standardized
+• **Report generation time** – What took hours manually now completes in seconds, a reduction of over 99%<br>
+• **Scalability** – The manual process struggled with large volumes; the automated solution handles growth seamlessly<br>
+• **Error rate** – Human errors like typos, missed rows, and formatting mistakes have been virtually eliminated<br>
+• **Consistency** – Outputs are now fully standardized, with uniform formatting, borders, alignment, and column widths across every file
 
 # 🧠 Code Highlights
 • **Merchant-wise Splitting Logic**
