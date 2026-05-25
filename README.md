@@ -29,9 +29,9 @@ It eliminates manual effort by:<br>
 • Individual Excel report generation per merchant<br>
 • Professional formatting using openpyxl:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;◦ Bold header rows<br>
-    ◦ Center alignment<br>
-    ◦ Cell borders<br>
-    ◦ Date-time formatting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Center alignment<br>
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Cell borders<br>
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Date-time formatting<br>
 • Auto-adjust column widths for readability<br>
 • Scalable structure for large datasets
 
