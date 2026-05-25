@@ -103,10 +103,10 @@ filtered_data.to_excel(output_file_path, index = False)
 ```
 
 • **Formatting Layer**
-&nbsp;&nbsp;&nbsp;&nbsp;◦ Borders applied using `openpyxl.styles.Border`
-&nbsp;&nbsp;&nbsp;&nbsp;◦ Alignment using `openpyxl.styles.Alignment`
-&nbsp;&nbsp;&nbsp;&nbsp;◦ Date formatting applied for datetime objects
-&nbsp;&nbsp;&nbsp;&nbsp;◦ Auto column width optimization for readability
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Borders applied using `openpyxl.styles.Border`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Alignment using `openpyxl.styles.Alignment`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Date formatting applied for datetime objects<br>
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Auto column width optimization for readability<br>
 
 ## 📌 Use Cases
 This automation is useful for:<br>
