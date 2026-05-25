@@ -103,24 +103,24 @@ filtered_data.to_excel(output_file_path, index = False)
 ```
 
 • **Formatting Layer**
-  ◦ Borders applied using `openpyxl.styles.Border`
-  ◦ Alignment using `openpyxl.styles.Alignment`
-  ◦ Date formatting applied for datetime objects
-  ◦ Auto column width optimization for readability
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Borders applied using `openpyxl.styles.Border`
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Alignment using `openpyxl.styles.Alignment`
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Date formatting applied for datetime objects
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Auto column width optimization for readability
 
 ## 📌 Use Cases
-This automation is useful for:
-• 🛡️ Fraud & risk monitoring teams
-• 💳 Payment transaction analysis
-• 📊 Merchant-level reporting systems
-• 📑 Compliance & audit workflows
-• 📈 Operational analytics dashboards
+This automation is useful for:<br>
+• 🛡️ Fraud & risk monitoring teams<br>
+• 💳 Payment transaction analysis<br>
+• 📊 Merchant-level reporting systems<br>
+• 📑 Compliance & audit workflows<br>
+• 📈 Operational analytics dashboards<br>
 
 ## 🎯 Key Learnings
-• Automating financial reporting workflows using Python
-• Working with pandas for data segmentation
-• Advanced Excel formatting using openpyxl
-• File system automation and dynamic report generation
-• Designing scalable data processing pipelines
+• Automating financial reporting workflows using Python<br>
+• Working with pandas for data segmentation<br>
+• Advanced Excel formatting using openpyxl<br>
+• File system automation and dynamic report generation<br>
+• Designing scalable data processing pipelines<br>
 
-View my notebook with detailed steps here: 
+View my notebook with detailed steps here: [Automated Transaction Report Generator](PYTHON_AUTOMATED_TRANSACTION_REPORT_GENERATOR.ipynb)
