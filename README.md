@@ -14,7 +14,7 @@ Manually splitting and formatting these reports is: <br>
 
 This project automates the entire reporting pipeline.
 
-# 🚀 Solution Overview
+## 🚀 Solution Overview
 This project automates the transformation of raw transaction data into **structured, merchant-wise Excel reports** with professional formatting.
 
 It eliminates manual effort by:<br>
@@ -23,7 +23,7 @@ It eliminates manual effort by:<br>
 • Applying financial-grade formatting<br>
 • Producing analysis-ready outputs for stakeholders
 
-# ⚙️ Key Features
+## ⚙️ Key Features
 • Automatic CSV ingestion using pandas<br>
 • Merchant-wise segmentation of transactions<br>
 • Individual Excel report generation per merchant<br>
@@ -35,7 +35,7 @@ It eliminates manual effort by:<br>
 • Auto-adjust column widths for readability<br>
 • Scalable structure for large datasets
 
-# 🏗️ System Architecture
+## 🏗️ System Architecture
 The pipeline follows a simple 4-stage process:<br>
 **1. Data Ingestion**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Load raw transaction CSV into pandas DataFrame<br>
@@ -46,7 +46,7 @@ The pipeline follows a simple 4-stage process:<br>
 **4. Formatting Layer**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Apply Excel styling using `openpyxl` for readability and presentation
 
-# 📂 Project Structure
+## 📂 Project Structure
 ```
 Python-Automated-Transaction-Report-Generator/
 │
@@ -59,7 +59,7 @@ Python-Automated-Transaction-Report-Generator/
 └── README.md
 ```
 
-# 📷 Output Preview
+## 📷 Output Preview
 ## 📊 Merchant-wise Transaction Report
 
 Below are a few sample generated reports:<br>
@@ -80,13 +80,13 @@ Zoomed-in view showing formatting applied using `openpyxl`:<br>
 
 ![Image_3](images/03_image.png)
 
-# 📊 Impact
+## 📊 Impact
 • **Report generation time** – What took hours manually now completes in seconds, a reduction of over 99%<br>
 • **Scalability** – The manual process struggled with large volumes; the automated solution handles growth seamlessly<br>
 • **Error rate** – Human errors like typos, missed rows, and formatting mistakes have been virtually eliminated<br>
 • **Consistency** – Outputs are now fully standardized, with uniform formatting, borders, alignment, and column widths across every file
 
-# 🧠 Code Highlights
+## 🧠 Code Highlights
 • **Merchant-wise Splitting Logic**
 ```
 source_dataframe['MERCHANT'].unique()
@@ -108,7 +108,7 @@ filtered_data.to_excel(output_file_path, index = False)
   ◦ Date formatting applied for datetime objects
   ◦ Auto column width optimization for readability
 
-  # 📌 Use Cases
+## 📌 Use Cases
 This automation is useful for:
 • 🛡️ Fraud & risk monitoring teams
 • 💳 Payment transaction analysis
@@ -116,7 +116,7 @@ This automation is useful for:
 • 📑 Compliance & audit workflows
 • 📈 Operational analytics dashboards
 
-# 🎯 Key Learnings
+## 🎯 Key Learnings
 • Automating financial reporting workflows using Python
 • Working with pandas for data segmentation
 • Advanced Excel formatting using openpyxl
