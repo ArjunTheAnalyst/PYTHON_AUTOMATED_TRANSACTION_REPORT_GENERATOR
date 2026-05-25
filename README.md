@@ -68,15 +68,16 @@ Merchant_1
 ![Image_1](images/01_image.png)
 
 Merchant_2
-![Image_1](images/02_image.png)
+![Image_2](images/02_image.png)
 
 ## 🔍 Formatting Detail View
 
-Zoomed-in view showing formatting applied using `openpyxl`:
-• Bold headers
-• Center alignment
-• Borders applied
-• Clean financial layout
+Zoomed-in view showing formatting applied using `openpyxl`:<br>
+• Bold headers<br>
+• Center alignment<br>
+• Borders applied<br>
+• Clean financial layout<br>
+![Image_3](images/03_image.png)
 
 # 📊 Impact
 **Metric**              |  **Manual Process**  |  **Automated Process**
