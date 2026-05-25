@@ -77,6 +77,7 @@ Zoomed-in view showing formatting applied using `openpyxl`:<br>
 • Center alignment<br>
 • Borders applied<br>
 • Clean financial layout<br>
+
 ![Image_3](images/03_image.png)
 
 # 📊 Impact
