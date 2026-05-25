@@ -21,18 +21,18 @@ It eliminates manual effort by:<br>
 • Splitting data by merchant<br>
 • Generating individual Excel reports<br>
 • Applying financial-grade formatting<br>
-• Producing analysis-ready outputs for stakeholders<br>
+• Producing analysis-ready outputs for stakeholders
 
 # ⚙️ Key Features
-• Automatic CSV ingestion using pandas
-• Merchant-wise segmentation of transactions
-• Individual Excel report generation per merchant
-• Professional formatting using openpyxl:
+• Automatic CSV ingestion using pandas<br>
+• Merchant-wise segmentation of transactions<br>
+• Individual Excel report generation per merchant<br>
+• Professional formatting using openpyxl:<br>
   ◦ Bold header rows
   ◦ Center alignment
   ◦ Cell borders
   ◦ Date-time formatting
-• Auto-adjust column widths for readability
+• Auto-adjust column widths for readability<br>
 • Scalable structure for large datasets
 
 # 🏗️ System Architecture
