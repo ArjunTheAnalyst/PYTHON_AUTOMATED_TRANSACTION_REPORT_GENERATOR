@@ -7,7 +7,7 @@ Financial transaction systems generate large volumes of raw data that must be an
 • Compliance reporting
 • Operational insights
 
-Manually splitting and formatting these reports is:
+Manually splitting and formatting these reports is: <br>
 • ⏱️ Time-consuming
 • ❌ Error-prone
 • 📉 Not scalable for high-volume datasets
