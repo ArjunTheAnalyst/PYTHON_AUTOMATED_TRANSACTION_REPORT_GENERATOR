@@ -60,7 +60,7 @@ Python-Automated-Transaction-Report-Generator/
 ```
 
 # 📷 Output Preview
-## 📊 Merchant-wise Transaction Report (Full View)
+## 📊 Merchant-wise Transaction Report
 
 Below are a few sample generated reports:<br>
 
