@@ -53,8 +53,8 @@ Python-Automated-Transaction-Report-Generator/
 ├── TRANSACTIONS.csv                 # Input dataset
 ├── script.py                       # Main automation script
 ├── destination_folder/             # Generated merchant reports
-│   ├── SUSPICIOUS_TRANSACTIONS_REPORT - Merchant1.xlsx
-│   ├── SUSPICIOUS_TRANSACTIONS_REPORT - Merchant2.xlsx
+│   ├── SUSPICIOUS_TRANSACTIONS_REPORT - Merchant_1.xlsx
+│   ├── SUSPICIOUS_TRANSACTIONS_REPORT - Merchant_2.xlsx
 │   └── ...
 └── README.md
 ```
