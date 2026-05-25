@@ -11,6 +11,7 @@ Manually splitting and formatting these reports is: <br>
 • ⏱️ Time-consuming<br>
 • ❌ Error-prone<br>
 • 📉 Not scalable for high-volume datasets<br>
+
 This project automates the entire reporting pipeline.
 
 # 🚀 Solution Overview
