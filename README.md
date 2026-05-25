@@ -81,11 +81,11 @@ Zoomed-in view showing formatting applied using `openpyxl`:<br>
 ![Image_3](images/03_image.png)
 
 # 📊 Impact
-**Metric**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |  **Manual Process**  |  **Automated Process**<br>
-Report generation time  |      Hours	         |      Seconds
-Scalability             |	      Low	           |        High
-Error rate              |	      High	         |      Minimal
-Consistency             |	   Inconsistent	     |    Standardized
+**Metric**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  **Manual Process**  |  **Automated Process**<br>
+Report generation time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |      Hours	         |      Seconds
+Scalability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	      Low	           |        High
+Error rate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |	      High	         |      Minimal
+Consistency&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	   Inconsistent	     |    Standardized
 
 # 🧠 Code Highlights
 • **Merchant-wise Splitting Logic**
