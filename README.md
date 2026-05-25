@@ -15,7 +15,7 @@ Manually splitting and formatting these reports is: <br>
 This project automates the entire reporting pipeline.
 
 ## 🚀 Solution Overview
-This project automates the transformation of raw transaction data into **structured, merchant-wise Excel reports** with professional formatting.
+This project streamlines the transformation of raw transaction data into **structured, merchant-wise Excel reports** with professional formatting.
 
 It eliminates manual effort by:<br>
 • Splitting data by merchant<br>
