@@ -63,6 +63,7 @@ Python-Automated-Transaction-Report-Generator/
 ## 📊 Merchant-wise Transaction Report (Full View)
 
 Below are a few sample generated reports:<br>
+
 Merchant_1
 ![Image_1](images/01_image.png)
 
